@@ -1,4 +1,4 @@
-# QOSF_project
+# QOSF_project, BigStep-03
 
 This is an implementation of Quantum convolutional neural network for classical data classification (https://arxiv.org/abs/2108.00661). It uses Pennylane software (https://pennylane.ai) for classifying MNIST and Fashion MNIST datasets.
 
